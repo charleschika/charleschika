@@ -25,7 +25,7 @@ Enthusiastic and results-driven Data Analyst with a solid academic background in
 
 ## Experience
 
-### Data Analyst – LeadGenRocket, UK (Mar 2023 – Present)
+### Data Analyst – Sublimity, Texas (Remote) (Mar 2023 – Present)
 
 - Collect and clean data from various sources, including website traffic logs, CRM systems, and marketing databases.
 - Utilize data analysis software to identify trends and create data visualizations for stakeholders.
