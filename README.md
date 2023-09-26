@@ -25,13 +25,13 @@ Enthusiastic and results-driven Data Analyst with a solid academic background in
 
 ## Experience
 
-### Data Analyst – Sublimity, Texas (Remote) (Mar 2023 – Present)
+### Data Analyst – Sublimity, Texas (Remote) (Nov 2023 – Present)
 
 - Collect and clean data from various sources, including website traffic logs, CRM systems, and marketing databases.
 - Utilize data analysis software to identify trends and create data visualizations for stakeholders.
 - Collaborate with team members to develop and implement data-driven solutions.
 
-### Collection’s Data Analyst – Mixta Africa, Lagos (Sept 2021 – Oct 2022)
+### Collection’s Data Analyst – Mixta Africa, Lagos (April 2019 – Oct 2022)
 
 - Analyze data from financial systems, aging reports, and bank statements to optimize debt recovery strategies.
 - Collaborate with cross-functional teams to identify process improvement opportunities.
