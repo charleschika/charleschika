@@ -33,17 +33,17 @@ Experienced data professional with a proven track record of leveraging SQL, Pyth
 - Independently managed end-to-end data analysis projects while meeting all deadlines
 
 ### Data Analyst, Sublimity, USA (Remote) (Nov 2022 - Oct 2023)
-- **Proficiently utilized data analysis tools (SQL, Python, R) and data visualization software (Tableau, Power BI), leading to the creation of interactive dashboards that improved data accessibility for stakeholders.
-- **Utilized statistical methods and data visualization tools to present findings, resulting in improved stakeholder understanding and enhanced decision-making processes.
-- **Led data analysis projects with a 100% on-time delivery rate, ensuring alignment with client expectations and project goals.
-- **Collaborated with over 15 clients to understand business needs, delivering tailored analytical solutions that contributed to a 30% increase in client satisfaction scores.
-- **Documented methodologies and processes, ensuring reproducibility and consistency that improved project efficiency by 20%.
+- Proficiently utilized data analysis tools (SQL, Python, R) and data visualization software (Tableau, Power BI), leading to the creation of interactive dashboards that improved data accessibility for stakeholders.
+- Utilized statistical methods and data visualization tools to present findings, resulting in improved stakeholder understanding and enhanced decision-making processes.
+- Led data analysis projects with a 100% on-time delivery rate, ensuring alignment with client expectations and project goals.
+- Collaborated with over 15 clients to understand business needs, delivering tailored analytical solutions that contributed to a 30% increase in client satisfaction scores.
+- Documented methodologies and processes, ensuring reproducibility and consistency that improved project efficiency by 20%.
   
 ### Data Analyst, Mixta Africa, Lagos (April 2019 - Oct 2022)
-- **Utilized statistical methods and data visualization tools to present findings, resulting in improved stakeholder understanding and enhanced decision-making processes.
-- **Created automated reporting tools that reduced reporting time by 40%, allowing for more timely insights.
-- **Utilized statistical methods and data visualization tools to present findings, resulting in improved stakeholder understanding and enhanced decision-making processes.
-- **Implemented data quality checks, ensuring 99% data accuracy and compliance with regulatory standards.
-- **Utilized statistical methods and data visualization tools to present findings, resulting in improved stakeholder understanding and enhanced decision-making processes.
+- Utilized statistical methods and data visualization tools to present findings, resulting in improved stakeholder understanding and enhanced decision-making processes.
+- Created automated reporting tools that reduced reporting time by 40%, allowing for more timely insights.
+- Utilized statistical methods and data visualization tools to present findings, resulting in improved stakeholder understanding and enhanced decision-making processes.
+- Implemented data quality checks, ensuring 99% data accuracy and compliance with regulatory standards.
+- Utilized statistical methods and data visualization tools to present findings, resulting in improved stakeholder understanding and enhanced decision-making processes.
 
 
