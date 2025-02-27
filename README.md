@@ -25,12 +25,12 @@ Experienced data professional with a proven track record of leveraging SQL, Pyth
 ## Experience
 
 ### Data Analyst, Siemens Energy, UK (Nov 2023 - Present)
--	**Developed and maintained complex SQL queries to extract, transform, and load (ETL) large datasets from various sources, reducing data retrieval time by 25%.
-- **Utilize tools like Db Beaver, Snowflake, Alteryx to efficiently access and manage data.
-- **Designed and implemented predictive models to forecast cost, improving costing accuracy by 40% and quoting time by 20%, resulting in a £3.5 million revenue increase annually.
-- **Developed and maintained comprehensive dashboards and KPI reports using Power BI and Tableau, resulting in 30% faster decision-making processes for senior management.
-- **Collaborated with cross-functional teams to identify data requirements and deliver customized analytics solutions that drove business growth
-- **Independently managed end-to-end data analysis projects while meeting all deadlines
+-	Developed and maintained complex SQL queries to extract, transform, and load (ETL) large datasets from various sources, reducing data retrieval time by 25%.
+- Utilize tools like Db Beaver, Snowflake, Alteryx to efficiently access and manage data.
+- Designed and implemented predictive models to forecast cost, improving costing accuracy by 40% and quoting time by 20%, resulting in a £3.5 million revenue increase annually.
+- Developed and maintained comprehensive dashboards and KPI reports using Power BI and Tableau, resulting in 30% faster decision-making processes for senior management.
+- Collaborated with cross-functional teams to identify data requirements and deliver customized analytics solutions that drove business growth
+- Independently managed end-to-end data analysis projects while meeting all deadlines
 
 ### Data Analyst, Sublimity, USA (Remote) (Nov 2022 - Oct 2023)
 - **Proficiently utilized data analysis tools (SQL, Python, R) and data visualization software (Tableau, Power BI), leading to the creation of interactive dashboards that improved data accessibility for stakeholders.
