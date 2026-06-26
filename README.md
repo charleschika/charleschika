@@ -1,152 +1,132 @@
-# Charles Chika Onyekachi
 
-📧 **Email:** charleschika@yahoo.com  
-📱 **LinkedIn:** [Chika Onyekachi](https://www.linkedin.com/in/charles-chika-onyekachi-136633179 )  
-📍 **Location:** Barnsley, UK
+# 👋 Hi, I'm Chika Onyekachi  
+**Senior Data Analyst | Data Science | Machine Learning**
+
+🚀 Turning data into actionable insights through analytics, machine learning, and scalable solutions.
+
+📧 charleschika@yahoo.com  
+📱 [LinkedIn](https://www.linkedin.com/in/charles-chika-onyekachi-136633179)  
+📍 Barnsley, UK  
 
 ---
 
 ## 👨‍💼 About Me
 
-Results-driven **Senior Data Analyst** with 7+ years of experience delivering large-scale analytics, predictive modeling, and business intelligence solutions.
+Results-driven **Senior Data Analyst** with 7+ years of experience delivering **high-impact analytics, predictive modelling, and business intelligence solutions** across multiple industries.
 
-Highly proficient in **SQL and Python (Pandas)**, with strong expertise in **Tableau and Power BI** for data visualisation. Proven ability to translate complex datasets into actionable insights that drive strategic decision-making.
+I specialise in:
+- Translating complex data into **clear, executive-ready insights**
+- Building **scalable data solutions and automated pipelines**
+- Leveraging **machine learning and statistical techniques** to drive business decisions
 
-Experienced in:
-- Statistical analysis, forecasting, and machine learning
-- Automating data pipelines and improving operational efficiency
-- Stakeholder engagement and cross-functional collaboration
-- Commerce datasets and user behaviour analytics in tech-driven environments
+Strong expertise in:
+- **SQL, Python (Pandas), and data modelling**
+- **Tableau & Power BI for storytelling and dashboards**
+- **Commercial analytics, forecasting, and user behaviour insights**
 
 ---
 
-## 🛠 Skills
+## 📂 Featured Projects
 
-### Technical Skills
-- **MS Excel (Expert):** Advanced formulas, Pivot Tables, VBA, Power Query, data modelling, A/B testing  
-- **Programming:** Python, SQL, R, MATLAB  
-- **Data Analysis:** Statistical modelling, predictive analytics, time series forecasting  
-- **Machine Learning:** Regression, classification, clustering  
-- **Data Visualisation:** Tableau, Power BI, Matplotlib, Seaborn  
-- **Cloud & Databases:** AWS, Snowflake, Azure, Google Cloud  
+- 🧠 **COVID-19 Image Classification**  
+  Built ML & deep learning models achieving **~99.9% accuracy** on medical image classification  
+
+- 🌍 **Satellite Image Classification (CNN)**  
+  Developed deep learning models for land-use classification from satellite imagery  
+
+- 🧠 **End-to-End NLP Text Analytics Pipeline**  
+  Designed a full NLP system covering retrieval, classification, sentiment analysis, and speech output  
+
+- 🏠 **Housing Price Prediction (Apache Spark)**  
+  Built scalable regression models using PySpark for large-scale data processing  
+
+---
+
+## 🛠️ Skills
+
+### 🔹 Technical Skills
+- **Programming:** Python, SQL, R  
+- **Data Analysis:** Statistical modelling, predictive analytics, forecasting  
+- **Machine Learning:** Regression, classification, clustering, NLP  
+- **Visualisation:** Tableau, Power BI, Matplotlib, Seaborn  
 - **Big Data:** Apache Spark, Hadoop  
-- **Statistical Methods:** ANOVA, correlation, hypothesis testing  
-- **Business Intelligence:** Tableau, Power BI, Alteryx  
-- **Power Platform:** Power BI, Power Apps, SharePoint  
+- **Cloud & Databases:** AWS, Snowflake, Azure, Google Cloud  
+- **Excel:** Advanced formulas, Power Query, VBA, modelling  
 
-### Project & Leadership Skills
-- **Stakeholder Management:** Executive engagement, requirement gathering, relationship building  
-- **Project Planning:** Milestones, deliverables, work breakdown structures  
-- **Quality & Governance:** Data governance, QA, regulatory compliance (GDPR)  
-- **Risk Management:** Risk identification, mitigation, contingency planning  
-- **Change Management:** Scope control, impact analysis  
+---
+
+### 🔹 Business & Leadership Skills
+- Stakeholder management & executive communication  
+- Data storytelling for decision-making  
+- Project planning & delivery  
+- Data governance & quality assurance (GDPR)  
+- Cross-functional collaboration  
+
+---
+
+## 💼 Professional Experience
+
+### **Senior Data Analyst**  
+**Dignity Funeral PLC, UK** | Feb 2026 – Present  
+
+- Lead advanced analytics initiatives aligned to business strategy  
+- Deliver insights on demand forecasting, customer behaviour, and revenue performance  
+- Build predictive models and scenario analysis frameworks  
+- Design KPI dashboards using Tableau for senior leadership  
+- Drive automation and improve reporting efficiency  
+- Promote data governance and mentor junior analysts  
+
+---
+
+### **Data Analyst**  
+**Siemens Energy, UK** | Nov 2023 – Feb 2026  
+
+- Increased decision-making speed by **30%** through real-time dashboards  
+- Reduced data preparation time by **60%** via automation  
+- Improved forecasting accuracy by **40%**, contributing to **£3.5M revenue growth**  
+- Built predictive costing models and analytics pipelines  
+- Worked with Snowflake, SAP data, and large-scale datasets  
+
+---
+
+### **Data Scientist**  
+**Sublimity** | Oct 2022 – Oct 2023  
+
+- Built ML models for anomaly detection in network systems  
+- Reduced false positives and improved threat detection  
+- Developed feature engineering pipelines and real-time monitoring dashboards  
+
+---
+
+### **Data Analyst**  
+**Mixta Africa, Lagos** | Apr 2019 – Oct 2022  
+
+- Delivered forecasting models driving **15% revenue growth**  
+- Reduced reporting time by **40%** through automation  
+- Achieved **99% data accuracy** via governance frameworks  
 
 ---
 
 ## 🎓 Education
 
 **MSc Data Science & Applied Analytics**  
-University of Lincoln, UK (Sept 2022 – Sept 2023)
-
----
-
-## 💼 Professional Experience
-
-### **Dignity Funeral PLC, UK**
-**Senior Data Analyst** | Feb 2026 – Present  
-
-#### Strategic Analytics & Insights
-- Lead advanced analytics projects aligned to business strategy  
-- Deliver actionable insights to senior stakeholders  
-- Analyse trends in:
-  - Funeral service demand & regional variation  
-  - Customer behaviour & satisfaction  
-  - Prepaid plan uptake & retention  
-- Support long-term forecasting (mortality, demographics, seasonality)
-
-#### Data Modelling & Analysis
-- Build robust models using SQL, Python, and R  
-- Perform predictive modelling, cohort analysis, and scenario planning  
-- Apply statistical techniques to improve decision-making  
-
-#### Dashboarding & Reporting
-- Design Tableau dashboards for business-wide KPI tracking  
-- Standardise metrics such as NPS, service times, and revenue  
-- Automate reporting pipelines to reduce manual effort  
-
-#### Data Governance & Leadership
-- Ensure data integrity, consistency, and compliance (GDPR)  
-- Collaborate with engineering teams on pipelines and warehousing  
-- Mentor junior analysts and promote data-driven culture  
-
----
-
-### **Siemens Energy, UK**
-**Data Analyst** | Nov 2023 – Feb 2026  
-
-#### Key Achievements
-- Accelerated executive decision-making by 30% via real-time KPI dashboards  
-- Reduced manual data prep by 60% through automation (SQL, Python, Power Query)  
-- Improved forecasting accuracy by 40%, contributing to **£3.5M revenue growth**
-
-#### Core Responsibilities
-- Built financial models and automated workflows across large datasets  
-- Led end-to-end analytics projects (scope, risk, delivery)  
-- Implemented GDPR-compliant data governance frameworks (99% data accuracy)
-
-#### Advanced Analytics & Modelling
-- Developed predictive costing models using Python (Scikit-learn)  
-- Performed statistical validation for pricing strategies & risk mitigation  
-- Designed estimation models using non-linear escalation factors  
-
-#### Data Engineering & Integration
-- Queried Snowflake (via DBeaver) to extract SAP data (PIR, PO, materials)  
-- Automated SAP updates using Winshuttle for bulk data deployment  
-
-#### Visualisation
-- Built Tableau dashboards for real-time monitoring of pricing lifecycle  
-- Enabled anomaly detection and decision support for sales/procurement  
-
----
-
-### **Sublimity **
-**Data Scientist** | Oct 2022 – Oct 2023  
-
-#### Key Contributions
-- Developed ML models to detect anomalous network behaviour  
-- Improved threat detection while reducing false positives  
-
-#### Responsibilities
-- Processed and cleaned large-scale network log datasets  
-- Engineered behavioural features for anomaly detection  
-- Built and optimised machine learning models  
-- Collaborated with security teams for real-time deployment  
-- Created dashboards for monitoring threats and network activity  
-- Implemented continuous model improvement processes  
-
----
-
-### **Mixta Africa, Lagos**
-**Data Analyst** | Apr 2019 – Oct 2022  
-
-#### Key Achievements
-- Delivered forecasting models driving **15% revenue growth**  
-- Reduced reporting cycle time by **40%** through automation  
-- Achieved **99% data accuracy** via data quality frameworks  
-
-#### Responsibilities
-- Built financial forecasting models using Excel and Python  
-- Automated monthly reporting processes  
-- Improved data governance and resource allocation  
-- Led training sessions to improve data literacy across teams  
+University of Lincoln, UK  
 
 ---
 
 ## 🚀 Key Strengths
 
-- Translating complex data into executive-ready insights  
-- Building scalable analytics & reporting solutions  
-- Strong commercial awareness and business impact focus  
-- Excellent communicator across technical and non-technical teams  
+- Turning data into **business impact**  
+- Building scalable analytics solutions  
+- Strong commercial awareness  
+- Clear communication with both technical and non-technical stakeholders  
+
+---
+
+## 📌 Currently
+
+- Enhancing machine learning and deep learning capabilities  
+- Building scalable data pipelines and production-ready solutions  
+- Exploring advanced analytics and AI applications  
 
 ---
