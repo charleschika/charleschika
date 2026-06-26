@@ -109,7 +109,7 @@ University of Lincoln, UK (Sept 2022 – Sept 2023)
 
 ---
 
-### **Sublimity (USA, Remote)**
+### **Sublimity **
 **Data Scientist** | Oct 2022 – Oct 2023  
 
 #### Key Contributions
