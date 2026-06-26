@@ -1,7 +1,7 @@
 # Charles Chika Onyekachi
 
 📧 **Email:** charleschika@yahoo.com  
-📱 **LinkedIn:** https://www.linkedin.com/in/charles-chika-onyekachi-136633179/ 
+📱 **LinkedIn:** https://www.linkedin.com/in/charles-chika-onyekachi-136633179/
 📍 **Location:** Barnsley, UK  
 
 ---
