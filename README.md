@@ -1,132 +1,54 @@
+# Hi, I'm Chika Onyekachi 👋
 
-# 👋 Hi, I'm Chika Onyekachi  
-**Senior Data Analyst | Data Science | Machine Learning**
+**Data Scientist & ML Engineer** — data pipelines, predictive modelling, and applied machine learning across industrial and healthcare-adjacent domains.
 
-🚀 Turning data into actionable insights through analytics, machine learning, and scalable solutions.
-
-📧 charleschika@yahoo.com  
-📱 [LinkedIn](https://www.linkedin.com/in/charles-chika-onyekachi-136633179)  
-📍 Barnsley, UK  
+📧 charleschika@yahoo.com · [LinkedIn](https://www.linkedin.com/in/charles-chika-onyekachi-136633179) · 📍 UK
 
 ---
 
-## 👨‍💼 About Me
+## 🚀 Featured Projects
 
-Results-driven **Senior Data Analyst** with 7+ years of experience delivering **high-impact analytics, predictive modelling, and business intelligence solutions** across multiple industries.
+### [GNN-PROJECT](https://github.com/charleschika/GNN-PROJECT) — Link Prediction for Product Recommendations
+Graph neural network approach to predicting product-to-product relationships from co-purchase data, framed as a link-prediction task on a product graph.
+`PyTorch Geometric` `Graph ML` `Recommender Systems`
 
-I specialise in:
-- Translating complex data into **clear, executive-ready insights**
-- Building **scalable data solutions and automated pipelines**
-- Leveraging **machine learning and statistical techniques** to drive business decisions
+### [End-to-End NLP Pipeline](#) — Retrieval, Classification & Sentiment
+Full NLP system covering document retrieval, text classification, sentiment analysis, and speech synthesis output.
+`NLP` `Transformers` `Text Classification`
 
-Strong expertise in:
-- **SQL, Python (Pandas), and data modelling**
-- **Tableau & Power BI for storytelling and dashboards**
-- **Commercial analytics, forecasting, and user behaviour insights**
+### [Satellite Image Classification](https://github.com/charleschika/satellite-image-classification-ml-vs-dl) — CNN vs. Classical ML
+Comparative study of deep learning and classical ML approaches to land-use classification from satellite imagery, with an evaluation of where CNNs earn their added complexity over simpler baselines.
+`CNN` `Computer Vision` `Remote Sensing`
 
----
+### [Medical Image Classification](https://github.com/charleschika/covid-19-image-classification) — CNN vs. Classical ML
+Benchmarked deep learning and classical ML models on chest X-ray classification, with stratified evaluation and a discussion of the limitations of small, imbalanced medical imaging datasets.
+`Deep Learning` `Medical Imaging` `Model Evaluation`
 
-## 📂 Featured Projects
+### [Housing Price Prediction](https://github.com/charleschika/housing-price-prediction-model-pyspark) — Distributed Regression at Scale
+Regression pipeline built on Apache Spark for large-scale housing data, covering feature engineering and model evaluation on distributed infrastructure.
+`Apache Spark` `PySpark` `Big Data`
 
-- 🧠 **COVID-19 Image Classification**  
-  Built ML & deep learning models achieving **~99.9% accuracy** on medical image classification  
-
-- 🌍 **Satellite Image Classification (CNN)**  
-  Developed deep learning models for land-use classification from satellite imagery  
-
-- 🧠 **End-to-End NLP Text Analytics Pipeline**  
-  Designed a full NLP system covering retrieval, classification, sentiment analysis, and speech output  
-
-- 🏠 **Housing Price Prediction (Apache Spark)**  
-  Built scalable regression models using PySpark for large-scale data processing  
+*Each project README includes methodology, evaluation approach, and honest discussion of limitations — not just headline metrics.*
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Technical Stack
 
-### 🔹 Technical Skills
-- **Programming:** Python, SQL, R  
-- **Data Analysis:** Statistical modelling, predictive analytics, forecasting  
-- **Machine Learning:** Regression, classification, clustering, NLP  
-- **Visualisation:** Tableau, Power BI, Matplotlib, Seaborn  
-- **Big Data:** Apache Spark, Hadoop  
-- **Cloud & Databases:** AWS, Snowflake, Azure, Google Cloud  
-- **Excel:** Advanced formulas, Power Query, VBA, modelling  
+**Languages & Core:** Python, SQL, R
+**ML/DL:** scikit-learn, PyTorch, TensorFlow, PyTorch Geometric
+**Data Engineering:** Apache Spark, Snowflake, SQL pipelines
+**Visualisation & BI:** Tableau, Power BI, Matplotlib, Seaborn
+**Cloud:** AWS, Azure, GCP
 
 ---
 
-### 🔹 Business & Leadership Skills
-- Stakeholder management & executive communication  
-- Data storytelling for decision-making  
-- Project planning & delivery  
-- Data governance & quality assurance (GDPR)  
-- Cross-functional collaboration  
+## 💼 Professional Context
+
+I work as a data scientist/analyst in industry (Siemens Energy, Dignity, prior roles in fintech and cybersecurity analytics), building production forecasting, predictive costing, and anomaly-detection systems. The projects above are where I go deeper on techniques and problems outside my day-to-day scope — full details on [LinkedIn](https://www.linkedin.com/in/charles-chika-onyekachi-136633179).
 
 ---
 
-## 💼 Professional Experience
+## 📌 Currently building
 
-### **Senior Data Analyst**  
-**Dignity Funeral PLC, UK** | Feb 2026 – Present  
-
-- Lead advanced analytics initiatives aligned to business strategy  
-- Deliver insights on demand forecasting, customer behaviour, and revenue performance  
-- Build predictive models and scenario analysis frameworks  
-- Design KPI dashboards using Tableau for senior leadership  
-- Drive automation and improve reporting efficiency  
-- Promote data governance and mentor junior analysts  
-
----
-
-### **Data Analyst**  
-**Siemens Energy, UK** | Nov 2023 – Feb 2026  
-
-- Increased decision-making speed by **30%** through real-time dashboards  
-- Reduced data preparation time by **60%** via automation  
-- Improved forecasting accuracy by **40%**, contributing to **£3.5M revenue growth**  
-- Built predictive costing models and analytics pipelines  
-- Worked with Snowflake, SAP data, and large-scale datasets  
-
----
-
-### **Data Scientist**  
-**Sublimity** | Oct 2022 – Oct 2023  
-
-- Built ML models for anomaly detection in network systems  
-- Reduced false positives and improved threat detection  
-- Developed feature engineering pipelines and real-time monitoring dashboards  
-
----
-
-### **Data Analyst**  
-**Mixta Africa, Lagos** | Apr 2019 – Oct 2022  
-
-- Delivered forecasting models driving **15% revenue growth**  
-- Reduced reporting time by **40%** through automation  
-- Achieved **99% data accuracy** via governance frameworks  
-
----
-
-## 🎓 Education
-
-**MSc Data Science & Applied Analytics**  
-University of Lincoln, UK  
-
----
-
-## 🚀 Key Strengths
-
-- Turning data into **business impact**  
-- Building scalable analytics solutions  
-- Strong commercial awareness  
-- Clear communication with both technical and non-technical stakeholders  
-
----
-
-## 📌 Currently
-
-- Enhancing machine learning and deep learning capabilities  
-- Building scalable data pipelines and production-ready solutions  
-- Exploring advanced analytics and AI applications  
-
----
+- [RentEasy](#) — a proptech product with a custom credit-scoring engine for instalment-based rent in underserved markets
+- Expanding GNN and NLP work with proper evaluation methodology and reproducible pipelines
